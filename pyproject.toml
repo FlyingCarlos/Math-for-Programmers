@@ -1,0 +1,18 @@
+[project]
+name = "math-for-programmers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipympl>=0.9.7",
+    "ipywidgets>=8.1.7",
+    "jupyterlab-widgets>=3.0.15",
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.1",
+    "pygame>=2.6.1",
+    "pyopengl>=3.1.9",
+    "scipy>=1.16.0",
+    "sympy>=1.14.0",
+]
